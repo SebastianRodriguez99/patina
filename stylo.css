@@ -75,7 +75,7 @@ body{
     font-family: "Roboto Mono", sans-serif
 }
 
-@media (max-width: 446px){
+@media (max-width: 750px){
 
     .todo__contenido{
         margin-top: 50%;
@@ -91,3 +91,4 @@ body{
     }
 
 }
+
